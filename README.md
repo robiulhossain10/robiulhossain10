@@ -9,5 +9,14 @@
   <a href="robiulhossain0110@gmail.com">Contact me.</a> 
 </p>
 
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ Full Stack Developer | Java | Spring Boot | Angular | Flutter <br>
+⚡ Check my ✨ [Website](https://10minuts.vercel.app/) or 🌱 [eBook](https://10minuts.vercel.app/)<br>
+📫 How to reach me: [Schedule Call](https://10minuts.vercel.app/) <br>
+👯 Join my opensource community[recodehive](https://github.com/Recodehive)<br>
+💬 Ask me about Full Stack Development<br>
+<!--- Adding Tech Stack open Section -->
+
 <a href="" target="_blank"><img src="/image/img.png" alt=""></a>
 
