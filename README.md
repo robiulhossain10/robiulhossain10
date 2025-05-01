@@ -16,7 +16,7 @@
 ✨ Full Stack Developer | Java | Spring Boot | Angular | Flutter <br>
 ⚡ Check my ✨ [Website](https://10minuts.vercel.app/) or 🌱 [eBook](https://10minuts.vercel.app/)<br>
 📫 How to reach me: [Schedule Call](https://10minuts.vercel.app/) <br>
-👯 Join my opensource community[recodehive](https://github.com/Recodehive)<br>
+👯 Join my opensource community[recodehive](#)<br>
 💬 Ask me about Full Stack Development<br>
 <!--- Adding Tech Stack open Section -->
 
