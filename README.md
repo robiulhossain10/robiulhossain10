@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/robiul-hossain-3b202a1b9/">LinkedIn</a> - 
   <a href="#">X</a> -
   <a href="https://10minuts.vercel.app/">Website</a> -
-  <a href="robiulhossain0110@gmail.com">Contact me.</a> 
+  <a href="mailto:robiulhossain0110@gmail.com">Contact me.</a> 
 </p>
 
 <a href="" target="_blank"><img src="/image/img.png" alt=""></a>
