@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/robiul-hossain-3b202a1b9/">Robiul</a> </h1>
 
 <!--- Adding Header Elements -->
-<p align="center">
+<p align="center" style="color: green;">
   <a href="http://sanjaykv.com/">Portfolios</a> -
   <a href="https://www.linkedin.com/in/robiul-hossain-3b202a1b9/">LinkedIn</a> - 
   <a href="#">X</a> -
