@@ -1,10 +1,10 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/robiul-hossain-3b202a1b9/">Robiul</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/robiulhossain10/">Robiul</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center" style="color: green;">
-  <a href="http://sanjaykv.com/">Portfolios</a> -
-  <a href="https://www.linkedin.com/in/robiul-hossain-3b202a1b9/">LinkedIn</a> - 
-  <a href="#">X</a> -
+  <a href="https://myportfolio-kappa-puce.vercel.app/">Portfolios</a> -
+  <a href="https://www.linkedin.com/in/robiulhossain10/">LinkedIn</a> - 
+  <a href="https://x.com/RobiulHoss93960">X</a> -
   <a href="https://10minuts.vercel.app/">Website</a> -
   <a href="mailto:robiulhossain0110@gmail.com">Contact me.</a> 
 </p>
