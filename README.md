@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robiulhossain10" alt="robiulhossain10" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@RobiulHossain03" target="blank"><img src="https://img.shields.io/twitter/follow/@robiulhoss93960?logo=twitter&style=for-the-badge" alt="@robiulhoss93960" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@RobiulHossain03" target="blank"><img src="https://img.shields.io/twitter/follow/@RobiulHossain03?logo=twitter&style=for-the-badge" alt="@RobiulHossain03" /></a> </p>
 
 - 🔭 I’m currently working on **Java**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@robiulhoss93960" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@robiulhoss93960" height="30" width="40" /></a>
+<a href="https://twitter.com/@RobiulHossain03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@RobiulHossain03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/robiulhossain10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robiulhossain10" height="30" width="40" /></a>
 <a href="https://fb.com/robiulhossain010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="robiulhossain010" height="30" width="40" /></a>
 </p>
