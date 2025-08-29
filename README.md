@@ -138,3 +138,84 @@ I love experimenting with **new tech, databases, and UI effects**.
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Animated Neon"/>
 </p>
+
+
+# 👋 Hi, I’m Robiul
+### Full-Stack Developer | Angular & Node.js | Database Enthusiast
+
+![Header](https://i.ibb.co/7vXqZ0y/banner.png)
+
+---
+
+## 🔹 About Me
+I’m a passionate **Full-Stack Developer** who loves building **modern web applications**. I specialize in **Angular, Node.js, Express, MongoDB, and Oracle DB**.  
+
+- 🌱 I’m currently learning **Microservices & Cloud Deployment**  
+- 💬 Ask me about **Web Development, Databases, API Design, Authentication**  
+- ⚡ Fun fact: Coffee fuels my code ☕💻  
+
+---
+
+## 🛠️ Skills
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 💼 Projects
+
+### [Hospital Management System](#)
+**Stack:** Node.js, Express, Oracle DB  
+Features: Patient management, Appointments, Billing  
+![Demo](https://img.shields.io/badge/Live-Demo-green)
+
+### [Login & JWT Auth System](#)
+**Stack:** Angular, Node.js, JWT  
+Features: Secure login, Refresh tokens, Profile management  
+![Demo](https://img.shields.io/badge/Live-Demo-blue)
+
+### [Personal Portfolio](#)
+**Stack:** Angular, Tailwind CSS  
+Features: Responsive, modern, clean design  
+![Demo](https://img.shields.io/badge/Live-Demo-red)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robiul)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robiul)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robiul@example.com)  
+
+---
+
+## 📊 GitHub Stats
+
+![Robiul's GitHub stats](https://github-readme-stats.vercel.app/api?username=robiul&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robiul&layout=compact&theme=tokyonight)
+
+---
+
+## ⚡ Fun Fact
+> "Code is like humor. When you have to explain it, it’s bad." – Robiul
