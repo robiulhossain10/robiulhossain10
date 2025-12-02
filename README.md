@@ -13,10 +13,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/robiul">
+  <a href="https://linkedin.com/in/robiulhossain10/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&hover_color=39FF14" />
   </a>
-  <a href="https://github.com/robiul">
+  <a href="https://github.com/robiulhossain10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=39FF14" />
   </a>
   <a href="mailto:robiul@example.com">
