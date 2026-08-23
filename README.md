@@ -1,145 +1,117 @@
-<p align="center">
-  <img src="/image/img.png" alt="Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">
-  <span style="color:#39FF14;">👋 Hi, I’m Robiul</span>
-</h1>
+  <!-- TOP BANNER / COVER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Robiul%20Hossain&fontSize=50&fontAlignY=38&animation=twinkling&desc=Java%20%7C%20Flutter%20%7C%20Full-Stack%20Mobile%20%26%20Backend%20Engineer&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
 
-<h3 align="center">
-  <span style="color:#00FFFF;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=39FF14&width=500&lines=Java+Developer;Flutter+Developer;Cross-Platform+Apps;Open+Source+Contributor" />
-  </span>
-</h3>
+  <!-- DYNAMIC TYPING TEXT -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Java+%26+Spring+Boot+Architect;Flutter+%26+Dart+Mobile+Specialist;Building+Scalable+Enterprise+Apps;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
 
-<p align="center">
+  <br/><br/>
+
+  <!-- SOCIAL BADGES WITH GLOW EFFECT -->
   <a href="https://linkedin.com/in/robiulhossain10/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&hover_color=39FF14" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="https://github.com/robiulhossain10">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&hover_color=39FF14" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="mailto:robiul@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&hover_color=39FF14" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+
+</div>
+
+<br/>
 
 ---
 
-## 🌌 About Me
-I’m a passionate **Java & Flutter Developer** creating **robust backends and modern mobile applications**.  
-I love **Java, Spring Boot, Dart, Flutter** & building high-performance cross-platform apps.  
+### 🌌 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300" alt="Coding GIF"/>
-</p>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p> 👋 Hello! I'm <b>Robiul</b>, a Software Engineer specialized in building high-performance <b>Java enterprise backends</b> and fluid, cross-platform <b>Flutter mobile applications</b>.</p>
+      <ul>
+        <li>⚡ <b>Backend:</b> Microservices architecture with Spring Boot & clean database design.</li>
+        <li>📱 <b>Mobile:</b> Production-ready iOS & Android apps with clean architecture.</li>
+        <li>🎯 <b>Focus:</b> Scalability, clean code patterns, & sleek user interfaces.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=robiulhossain10&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Skills
+### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black&hover_color=39FF14" /></a>
-  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black&hover_color=00FFDD" /></a>
-  <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=black&hover_color=FFDD00" /></a>
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=black&hover_color=00FFDD" /></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&hover_color=FF0066" /></a>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Mobile Development** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Bloc-02569B?style=flat-square"/> <img src="https://img.shields.io/badge/GetX-02569B?style=flat-square"/> |
+| **Backend & Core** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> |
+| **Databases & Cache** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> |
+| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
+
 </div>
 
 ---
 
-## 📊 Skill Levels (Animated & Interactive)
+### 📊 Technical Proficiency
 
-<details>
-<summary>Java 🌟</summary>
-<p>
-<img src="https://progress-bar.dev/90/?title=Java&suffix=%25&color=ED8B00&width=500" />
-</p>
-</details>
+<div align="center">
 
-<details>
-<summary>Flutter 🌟</summary>
-<p>
-<img src="https://progress-bar.dev/90/?title=Flutter&suffix=%25&color=02569B&width=500" />
-</p>
-</details>
+Java / Spring Boot   [████████████████████████░] 92%
+Flutter / Dart       [███████████████████████░░] 88%
+SQL & ORM (JPA)      [████████████████████░░░░░] 82%
+RESTful APIs & Micro [███████████████████████░░] 88%
+System Architecture  [██████████████████░░░░░░░] 75%
 
-<details>
-<summary>Dart 🌟</summary>
-<p>
-<img src="https://progress-bar.dev/85/?title=Dart&suffix=%25&color=0175C2&width=500" />
-</p>
-</details>
 
-<details>
-<summary>Spring Boot 🌟</summary>
-<p>
-<img src="https://progress-bar.dev/80/?title=Spring%20Boot&suffix=%25&color=6DB33F&width=500" />
-</p>
-</details>
-
-<details>
-<summary>MySQL / PostgreSQL 🌟</summary>
-<p>
-<img src="https://progress-bar.dev/80/?title=Databases&suffix=%25&color=4479A1&width=500" />
-</p>
-</details>
+</div>
 
 ---
 
-## 💻 Projects (Interactive)
+### 💻 Featured Projects
 
-<details>
-<summary>E-Commerce Mobile App 🛍️</summary>
-<p>
-<b>Stack:</b> Flutter, Dart, REST API <br>
-<b>Features:</b> Payment gateway integration, Real-time tracking, State management <br>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-green" /></a>
-</p>
-</details>
+<div align="center">
 
-<details>
-<summary>RESTful Backend API Service ⚙️</summary>
-<p>
-<b>Stack:</b> Java, Spring Boot, MySQL, JWT <br>
-<b>Features:</b> Secure authentication, Role-based control, Microservices structure <br>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-blue" /></a>
-</p>
-</details>
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **Enterprise E-Commerce App** | `Flutter` `Dart` `Bloc` | Cross-platform store with real-time tracking & native payment gateway. | [Repository](#) |
+| **Banking Microservices Backend** | `Java` `Spring Boot` `PostgreSQL` | High-throughput REST API with JWT Auth, Role-based control & Redis caching. | [Repository](#) |
+| **Real-Time Task Manager** | `Flutter` `Firebase` `Spring API` | Offline-first sync model, push notifications & modern dark neon theme. | [Repository](#) |
 
-<details>
-<summary>Cross-Platform Mobile Portfolio 📱</summary>
-<p>
-<b>Stack:</b> Flutter <br>
-<b>Features:</b> Responsive UI, Dark/Light theme, Interactive animations <br>
-<a href="#"><img src="https://img.shields.io/badge/Live-Demo-red" /></a>
-</p>
-</details>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+### 📈 Metrics & GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robiul&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiul&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
 
----
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robiulhossain10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiulhossain10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
-## 🌟 Fun & Interactive
+  <br/>
 
-- 💻 Coffee fuels my code ☕  
-- 🎮 Gaming keeps me sharp  
-- 🌱 Always learning new frameworks & tools  
-- 🐱 Love cats and tech memes 😸  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulhossain10&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Neon Coding GIF"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
-</p>
+### ⚡ Quick Bytes
+
+```yaml
+Current_Focus: Enterprise System Architecture & Flutter Performance Optimization
+Always_Learning: Kotlin, Ktor & Cloud-Native Solutions
+Fun_Fact: "Java is to JavaScript what car is to carpet."
+Coffee_Count: ☕ x ∞
