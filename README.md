@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- TOP BANNER / COVER -->
-  <img src="image/img.png" width="100%" alt="Header Banner" />
+  <!-- DYNAMIC ANIMATED HERO HEADER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:00f5ff,100:7000ff&height=260&section=header&text=ROBIUL%20HOSSAIN&fontSize=52&fontAlignY=36&animation=twinkling&desc=Java%20Architect%20%7C%20Flutter%20%26%20Dart%20Specialist%20%7C%20Backend%20Engineer&descAlignY=58&descScale=17" width="100%" alt="Hero Banner" />
 
   <!-- DYNAMIC TYPING TEXT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Java+%26+Spring+Boot+Architect;Flutter+%26+Dart+Mobile+Specialist;Building+Scalable+Enterprise+Apps;Open+Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=00F5FF&center=true&vCenter=true&width=680&height=50&lines=Java+%2B+Spring+Boot+Enterprise+Microservices;Flutter+%2B+Dart+Cross-Platform+Mobile+Apps;Reactive+Architectures+%26+High-Performance+APIs;Clean+Code+%7C+SOLID+Principles+%7C+Scalable+Systems" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- SOCIAL BADGES WITH GLOW EFFECT -->
+  <!-- GLOWING BADGES WITH COUNTERS -->
   <a href="https://linkedin.com/in/robiulhossain10/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -22,6 +22,10 @@
   <a href="mailto:robiul@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
+  <a href="https://komarev.com/ghpvc/?username=robiulhossain10&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS">
+    <img src="https://komarev.com/ghpvc/?username=robiulhossain10&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
 
 </div>
 
@@ -29,89 +33,61 @@
 
 ---
 
-### 🌌 About Me
+### 🌌 Executive Overview
 
 <table border="0">
   <tr>
-    <td width="60%">
-      <p> 👋 Hello! I'm <b>Robiul</b>, a Software Engineer specialized in building high-performance <b>Java enterprise backends</b> and fluid, cross-platform <b>Flutter mobile applications</b>.</p>
+    <td width="58%" valign="top">
+      <p>👋 Hello! I am <b>Robiul</b>, a Software Engineer dedicated to crafting high-concurrency <b>Java backends</b> and fluid, production-grade <b>Flutter mobile applications</b>.</p>
       <ul>
-        <li>⚡ <b>Backend:</b> Microservices architecture with Spring Boot & clean database design.</li>
-        <li>📱 <b>Mobile:</b> Production-ready iOS & Android apps with clean architecture.</li>
-        <li>🎯 <b>Focus:</b> Scalability, clean code patterns, & sleek user interfaces.</li>
+        <li><b>Enterprise Engineering:</b> Designing event-driven microservices, RESTful APIs, and TCP/Serial hardware integrations with <b>Spring Boot</b> and <b>Netty</b>.</li>
+        <li><b>Cross-Platform Mastery:</b> Architecting reactive, state-managed <b>Flutter Applications</b> using <i>BLoC</i> and <i>Clean Architecture</i> patterns.</li>
+        <li><b>Data Integrity:</b> Crafting transactional systems across <b>PostgreSQL</b>, <b>MySQL</b>, and <b>SQLite</b> with optimized query logic.</li>
       </ul>
     </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=robiulhossain10&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+    <td width="42%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=robiulhossain10&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Ecosystem & Tech Matrix
 
 <div align="center">
 
-| Domain | Technologies |
+| Domain | Stack / Tooling |
 | :--- | :--- |
-| **Mobile Development** | <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Bloc-02569B?style=flat-square"/> <img src="https://img.shields.io/badge/GetX-02569B?style=flat-square"/> |
-| **Backend & Core** | <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> |
-| **Databases & Cache** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> |
-| **DevOps & Tools** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> |
+| **Mobile Ecosystem** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/BLoC-02569B?style=for-the-badge"/> <img src="https://img.shields.io/badge/GetX-02569B?style=for-the-badge"/> <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge"/> |
+| **Java & Enterprise** | <img src="https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> |
+| **Networking & Protocols** | <img src="https://img.shields.io/badge/Netty_Sockets-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/> <img src="https://img.shields.io/badge/Tailscale_VPN-000000?style=for-the-badge&logo=tailscale&logoColor=white"/> |
+| **Data & Storage** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> |
+| **DevOps & Utilities** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> |
 
 </div>
 
 ---
 
-### 📊 Technical Proficiency
+### 📊 Engineering Competencies
 
 <div align="center">
 
-Java / Spring Boot   [████████████████████████░] 92%
-Flutter / Dart       [███████████████████████░░] 88%
-SQL & ORM (JPA)      [████████████████████░░░░░] 82%
-RESTful APIs & Micro [███████████████████████░░] 88%
-System Architecture  [██████████████████░░░░░░░] 75%
-
-
-</div>
-
----
-
-### 💻 Featured Projects
-
-<div align="center">
-
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| **Enterprise E-Commerce App** | `Flutter` `Dart` `Bloc` | Cross-platform store with real-time tracking & native payment gateway. | [Repository](#) |
-| **Banking Microservices Backend** | `Java` `Spring Boot` `PostgreSQL` | High-throughput REST API with JWT Auth, Role-based control & Redis caching. | [Repository](#) |
-| **Real-Time Task Manager** | `Flutter` `Firebase` `Spring API` | Offline-first sync model, push notifications & modern dark neon theme. | [Repository](#) |
-
-</div>
-
----
-
-### 📈 Metrics & GitHub Insights
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robiulhossain10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robiulhossain10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robiulhossain10&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-
-</div>
-
----
-
-### ⚡ Quick Bytes
-
-```yaml
-Current_Focus: Enterprise System Architecture & Flutter Performance Optimization
-Always_Learning: Kotlin, Ktor & Cloud-Native Solutions
-Fun_Fact: "Java is to JavaScript what car is to carpet."
-Coffee_Count: ☕ x ∞
+```gcode
+[Java / Spring Boot]   ████████████████████████████  95%  » Microservices, JPA, Multi-threading
+[Flutter / Dart]       ██████████████████████████░░  90%  » Clean Arch, State Management, Custom UI
+[SQL & Database ORM]   ████████████████████████░░░░  85%  » Transactional Control, Complex Queries
+[Network & Sockets]    ██████████████████████░░░░░░  80%  » Netty TCP, Serial Protocols, WebSockets
+[System Design]        ██████████████████████░░░░░░  80%  » Layered Architecture, Security, REST Specs
+💻 Deep Dive ProjectsProjectDomainArchitecture / TechCore Impact & FeaturesCross-Platform Mobile SuiteMobileFlutter Dart BLoC REST APINative iOS/Android experience with clean layer separation, offline caching, and real-time state management.Enterprise Universal LIS PlatformHealthcareSpring Boot Netty PostgreSQLHigh-throughput socket listeners intercepting device telemetry, parsing HL7/ASTM protocols into batch DB transactions.Scale & Hardware TrackerIndustrialJava 17 SQLite jSerialCommClean layered desktop app capturing real-time telemetry from industrial hardware indicators via serial communication.📈 Metrics & GitHub Intelligence⚡ Technical Profile SummaryJSON{
+  "engineer": "Robiul Hossain",
+  "primary_stack": ["Java", "Spring Boot", "Flutter", "Dart"],
+  "architectural_style": ["Clean Architecture", "Event-Driven", "Layered Monolith", "Microservices"],
+  "focus_areas": [
+    "High-Concurrency Netty TCP Sockets",
+    "Flutter Cross-Platform State Management",
+    "Hardware Device Interfacing & Telemetry",
+    "Database Query & Transaction Optimization"
+  ],
+  "philosophy": "Clean code is not written by following a set of rules; it is cultivated through discipline."
+}
