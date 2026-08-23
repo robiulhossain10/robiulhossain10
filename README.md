@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- TOP BANNER / COVER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30,50&height=220&section=header&text=Robiul%20Hossain&fontSize=50&fontAlignY=38&animation=twinkling&desc=Java%20%7C%20Flutter%20%7C%20Full-Stack%20Mobile%20%26%20Backend%20Engineer&descAlignY=62&descScale=18" width="100%" alt="Header Banner" />
+  <img src="image/img.png" width="100%" alt="Header Banner" />
 
   <!-- DYNAMIC TYPING TEXT -->
   <a href="https://git.io/typing-svg">
