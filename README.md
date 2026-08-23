@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- DYNAMIC ANIMATED HERO HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,70:00f5ff,100:7000ff&height=260&section=header&text=ROBIUL%20HOSSAIN&fontSize=52&fontAlignY=36&animation=twinkling&desc=Java%20Architect%20%7C%20Flutter%20%26%20Dart%20Specialist%20%7C%20Backend%20Engineer&descAlignY=58&descScale=17" width="100%" alt="Hero Banner" />
+  <img src="image/img.png" width="100%" alt="Hero Banner" />
 
   <!-- DYNAMIC TYPING TEXT -->
   <a href="https://git.io/typing-svg">
