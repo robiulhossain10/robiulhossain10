@@ -91,16 +91,3 @@
   ],
   "philosophy": "Clean code is not written by following a set of rules; it is cultivated through discipline."
 }
-
-💻 Deep Dive ProjectsProjectDomainArchitecture / TechCore Impact & FeaturesCross-Platform Mobile SuiteMobileFlutter Dart BLoC REST APINative iOS/Android experience with clean layer separation, offline caching, and real-time state management.Enterprise Universal LIS PlatformHealthcareSpring Boot Netty PostgreSQLHigh-throughput socket listeners intercepting device telemetry, parsing HL7/ASTM protocols into batch DB transactions.Scale & Hardware TrackerIndustrialJava 17 SQLite jSerialCommClean layered desktop app capturing real-time telemetry from industrial hardware indicators via serial communication.📈 Metrics & GitHub Intelligence⚡ Technical Profile SummaryJSON{
-  "engineer": "Robiul Hossain",
-  "primary_stack": ["Java", "Spring Boot", "Flutter", "Dart"],
-  "architectural_style": ["Clean Architecture", "Event-Driven", "Layered Monolith", "Microservices"],
-  "focus_areas": [
-    "High-Concurrency Netty TCP Sockets",
-    "Flutter Cross-Platform State Management",
-    "Hardware Device Interfacing & Telemetry",
-    "Database Query & Transaction Optimization"
-  ],
-  "philosophy": "Clean code is not written by following a set of rules; it is cultivated through discipline."
-}
